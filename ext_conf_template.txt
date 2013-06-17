@@ -1,0 +1,14 @@
+	# cat=basic/enable/100; type=input; label=username
+username = guest
+
+	# cat=basic/enable/100; type=input; label=password
+password = guest
+
+	# cat=basic/enable/100; type=input; label=host
+host = 127.0.0.1
+
+	# cat=basic/enable/100; type=input; label=port
+port = 5672
+
+	# cat=basic/enable/100; type=input; label=vhost
+vhost = /
